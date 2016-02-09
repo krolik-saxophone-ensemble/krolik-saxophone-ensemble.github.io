@@ -1,5 +1,5 @@
 body {
-    background-color: #fed;
+    background-color: #fff6ee;
 }
 
 #main-title {
@@ -13,4 +13,8 @@ body {
 
 #main-picture img {
     max-height: 400px;
+}
+
+#main-description p {
+    margin-top:20px;
 }
