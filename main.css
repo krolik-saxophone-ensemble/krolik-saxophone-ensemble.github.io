@@ -13,6 +13,7 @@ body {
 
 #main-picture img {
     max-height: 400px;
+    max-width: 100%;
 }
 
 #main-description p {
