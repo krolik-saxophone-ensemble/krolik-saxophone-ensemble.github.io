@@ -1,3 +1,16 @@
 body {
-    background-color: black;
+    background-color: #fed;
+}
+
+#main-title {
+    color: black;
+    text-align: center;
+}
+
+#main-picture {
+    text-align: center;
+}
+
+#main-picture img {
+    max-height: 400px;
 }
